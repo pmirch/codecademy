@@ -1,0 +1,3 @@
+To compare changes to a single file, append /compare to the repository path. For example:
+  https://github.com/pmirch/codecademy/compare/
+See https://help.github.com/articles/comparing-commits-across-time/ for more information.
