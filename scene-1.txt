@@ -1,2 +1,4 @@
 Harry Programmer and the Sorcerers Code: Scene 1
 Dumblediff: I should've known you would be here, Professor McGonagit.
+
+Line added to obtain diff output.
